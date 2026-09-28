@@ -1,2 +1,2 @@
-# ODIN-Recipes
+# Odin-Recipes
 portfolio type
